@@ -113,7 +113,7 @@ def game_over():
     global running
 
     running = False
-    msg = game_font1.render(f"Your level is {curr_level}", True, WHITE)
+    msg = game_font1.render(f"You failed on level {curr_level}", True, WHITE)
     msg_rect = msg.get_rect(center=(screen_width/2, screen_height/2))
     screen.fill(BLACK)
     screen.blit(msg, msg_rect)
