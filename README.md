@@ -1,2 +1,2 @@
 # FunSideProjects
-Place to store games or other fun projects that I work on during free time
+Place to store projects that I work on during free time
