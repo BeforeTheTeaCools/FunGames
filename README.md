@@ -1,4 +1,4 @@
 Current projects:
-Sorting Visualizer
-WebScraping
+Sorting Visualizer,
+WebScraping,
 Memory Game
